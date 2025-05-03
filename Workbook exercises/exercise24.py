@@ -1,3 +1,4 @@
+# Inspired by an exercise from *The Python Workbook* by Ben Stephenson.
 #Units of time 1
 # create a prg that reads a duration from the user as a number of 
 #days hours minutes and seconds and display the total seconds

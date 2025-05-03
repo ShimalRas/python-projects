@@ -1,3 +1,4 @@
+# Inspired by an exercise from *The Python Workbook* by Ben Stephenson.
 #distance between two points on earth
 ufeet = int(input("Enter the amount of feet: "))
 uinch = int(input("Enter the inches: "))

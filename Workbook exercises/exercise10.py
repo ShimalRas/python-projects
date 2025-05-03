@@ -1,3 +1,4 @@
+# Inspired by an exercise from *The Python Workbook* by Ben Stephenson.
 # Arithmetic 
 import math
 a = int(input("Enter integer: "))

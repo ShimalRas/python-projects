@@ -1,3 +1,4 @@
+# Inspired by an exercise from *The Python Workbook* by Ben Stephenson.
 #Compound interest 
 #you have a savings acc that earns a fixed interest per year and is added to the balance savings.
 #the program should read the amount deposited and compute  and display the amount in thr account after a fixed amount of years.

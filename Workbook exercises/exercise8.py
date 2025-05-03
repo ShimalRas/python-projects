@@ -1,3 +1,4 @@
+# Inspired by an exercise from *The Python Workbook* by Ben Stephenson.
 #widgets and gizmos
 #basically the program is to calculate and display the total weight of two objects in different quantities and display the total
 
